@@ -1,8 +1,16 @@
-# SAP2000 Quad Mesher: public releases
+# SAP2000 Quad Mesher: public source archive
 
-This repository publishes the **public update manifest and binary desktop releases** for SAP2000 Quad Mesher. The development repository and model fixtures remain private.
+This `source-archive` branch retains corresponding GPL source for each build
+whose binary was made available, even after its test release page has been
+removed. It does not offer old installers. The public `main` branch contains
+the current update manifest, and **only the latest release** supplies a binary
+installer. The development repository and model fixtures remain private.
 
-- [Latest release](https://github.com/leonardobandini/sap2000-quad-mesher-updates/releases/latest): download the installer ZIP and its `.sha256` checksum.
-- [`manifest.json`](manifest.json): machine-readable latest version, release page, ZIP URL and publication date. The plugin checks this file asynchronously without requiring a GitHub account.
+- [Latest binary release](https://github.com/leonardobandini/sap2000-quad-mesher-updates/releases/latest)
+- [Original Gmsh 4.15.2 source](gmsh-4.15.2-source.tgz) and [checksum](gmsh-4.15.2-source.tgz.sha256)
+- [v1.0.78 test build: corresponding source](v1.0.78/Sap2000QuadMesher-1.0.78-source.zip) and [checksum](v1.0.78/Sap2000QuadMesher-1.0.78-source.zip.sha256)
 
-SAP2000 27 x64 is required. Extract the release ZIP and run `install_plugin.cmd` after closing SAP2000; reopen SAP and use **Tools > Add/Show Plugins** if the menu entry is not already present.
+Builds up to and including v1.0.78 were development/test builds. Starting
+with v1.0.79, SAP2000 Quad Mesher is offered as an educational beta for users.
+Corresponding source remains accessible here even when only a newer release
+is available for installation. Previously granted licenses are not revoked.
