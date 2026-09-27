@@ -14,3 +14,5 @@ Builds up to and including v1.0.78 were development/test builds. Starting
 with v1.0.79, SAP2000 Quad Mesher is offered as an educational beta for users.
 Corresponding source remains accessible here even when only a newer release
 is available for installation. Previously granted licenses are not revoked.
+
+- [v1.0.79: corresponding source](v1.0.79/Sap2000QuadMesher-1.0.79-source.zip) and [SHA-256](v1.0.79/Sap2000QuadMesher-1.0.79-source.zip.sha256)
