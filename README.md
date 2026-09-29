@@ -30,3 +30,5 @@ is available for installation. Previously granted licenses are not revoked.
 - [v1.0.85: corresponding source](v1.0.85/Sap2000QuadMesher-1.0.85-source.zip) and [SHA-256](v1.0.85/Sap2000QuadMesher-1.0.85-source.zip.sha256)
 
 - [v1.0.87: corresponding source](v1.0.87/Sap2000QuadMesher-1.0.87-source.zip) and [SHA-256](v1.0.87/Sap2000QuadMesher-1.0.87-source.zip.sha256)
+
+- [v1.0.88: corresponding source](v1.0.88/Sap2000QuadMesher-1.0.88-source.zip) and [SHA-256](v1.0.88/Sap2000QuadMesher-1.0.88-source.zip.sha256)
