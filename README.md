@@ -80,3 +80,5 @@ is available for installation. Previously granted licenses are not revoked.
 - [v2.0.45: corresponding source](v2.0.45/Sap2000QuadMesher-2.0.45-source.zip) and [SHA-256](v2.0.45/Sap2000QuadMesher-2.0.45-source.zip.sha256)
 
 - [v2.0.46: corresponding source](v2.0.46/Sap2000QuadMesher-2.0.46-source.zip) and [SHA-256](v2.0.46/Sap2000QuadMesher-2.0.46-source.zip.sha256)
+
+- [v2.0.50: corresponding source](v2.0.50/Sap2000QuadMesher-2.0.50-source.zip) and [SHA-256](v2.0.50/Sap2000QuadMesher-2.0.50-source.zip.sha256)
